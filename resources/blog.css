@@ -1,0 +1,54 @@
+/* My Custom CSS for the blog and contact page */
+
+#blogcontainer
+{
+    margin: 10% auto;
+
+}
+
+#blogposts
+{
+    border: 1px solid red;
+    padding: 40px;
+}
+
+.labels
+{
+    display: block;
+    margin-bottom: 12px;
+}
+
+.input
+{
+    width: 100%;
+    padding: 12px;
+    border: 1px solid blue;
+}
+
+.blogpostsmain
+{
+    border: 1px solid #eee;
+    border-bottom: 3px solid;
+    padding: 10px;
+}
+
+.blogpostsmain blogsubmitdata
+{
+    display: grid;
+    grid-template-columns: auto 1200px;
+}
+
+.submitauthor
+{
+    text-align: center;
+}
+
+.blogcontent
+{
+    margin-bottom:30px;
+}
+
+.blogheader
+{
+    text-align: center;
+}
